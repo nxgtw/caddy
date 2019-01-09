@@ -21,7 +21,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/mholt/caddy/caddyfile"
+	"github.com/nxgtw/caddy/caddyfile"
 )
 
 // These are all the registered plugins.

@@ -30,13 +30,13 @@ import (
 
 	"github.com/google/uuid"
 	"github.com/klauspost/cpuid"
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddytls"
-	"github.com/mholt/caddy/telemetry"
+	"github.com/nxgtw/caddy"
+	"github.com/nxgtw/caddy/caddytls"
+	"github.com/nxgtw/caddy/telemetry"
 	"github.com/xenolf/lego/acmev2"
 	"gopkg.in/natefinch/lumberjack.v2"
 
-	_ "github.com/mholt/caddy/caddyhttp" // plug in the HTTP server type
+	_ "github.com/nxgtw/caddy/caddyhttp" // plug in the HTTP server type
 	// This is where other plugins get plugged in (imported)
 )
 

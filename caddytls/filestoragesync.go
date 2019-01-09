@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mholt/caddy"
+	"github.com/nxgtw/caddy"
 )
 
 func init() {

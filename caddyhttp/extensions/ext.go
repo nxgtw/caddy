@@ -26,7 +26,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/nxgtw/caddy/caddyhttp/httpserver"
 )
 
 // Ext can assume an extension from clean URLs.

@@ -22,7 +22,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/nxgtw/caddy/caddyhttp/httpserver"
 )
 
 type erroringMiddleware struct{}

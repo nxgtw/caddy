@@ -19,9 +19,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
-	"github.com/mholt/caddy/caddyhttp/markdown/metadata"
-	"github.com/mholt/caddy/caddyhttp/markdown/summary"
+	"github.com/nxgtw/caddy/caddyhttp/httpserver"
+	"github.com/nxgtw/caddy/caddyhttp/markdown/metadata"
+	"github.com/nxgtw/caddy/caddyhttp/markdown/summary"
 	"github.com/russross/blackfriday"
 )
 

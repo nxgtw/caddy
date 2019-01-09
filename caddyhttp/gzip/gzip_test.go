@@ -23,7 +23,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/nxgtw/caddy/caddyhttp/httpserver"
 )
 
 func TestGzipHandler(t *testing.T) {

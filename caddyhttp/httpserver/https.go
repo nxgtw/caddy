@@ -19,8 +19,8 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddytls"
+	"github.com/nxgtw/caddy"
+	"github.com/nxgtw/caddy/caddytls"
 )
 
 func activateHTTPS(cctx caddy.Context) error {

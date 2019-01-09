@@ -23,7 +23,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/mholt/caddy"
+	"github.com/nxgtw/caddy"
 )
 
 func init() {

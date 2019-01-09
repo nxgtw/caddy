@@ -26,11 +26,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddyfile"
-	"github.com/mholt/caddy/caddyhttp/staticfiles"
-	"github.com/mholt/caddy/caddytls"
-	"github.com/mholt/caddy/telemetry"
+	"github.com/nxgtw/caddy"
+	"github.com/nxgtw/caddy/caddyfile"
+	"github.com/nxgtw/caddy/caddyhttp/staticfiles"
+	"github.com/nxgtw/caddy/caddytls"
+	"github.com/nxgtw/caddy/telemetry"
 )
 
 const serverType = "http"

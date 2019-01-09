@@ -17,8 +17,8 @@ package redirect
 import (
 	"net/http"
 
-	"github.com/mholt/caddy"
-	"github.com/mholt/caddy/caddyhttp/httpserver"
+	"github.com/nxgtw/caddy"
+	"github.com/nxgtw/caddy/caddyhttp/httpserver"
 )
 
 func init() {

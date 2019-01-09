@@ -21,8 +21,8 @@ import (
 	"sync"
 	"text/template"
 
-	"github.com/mholt/caddy/caddyhttp/httpserver"
-	"github.com/mholt/caddy/caddyhttp/markdown/metadata"
+	"github.com/nxgtw/caddy/caddyhttp/httpserver"
+	"github.com/nxgtw/caddy/caddyhttp/markdown/metadata"
 )
 
 // Data represents a markdown document.
